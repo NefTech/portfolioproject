@@ -1,0 +1,16 @@
+.color {
+  color: #006400;
+  text-align: center;
+}
+body {
+   background-image: url(http://code-epicenter.com/wp-content/uploads/2016/01/programmer-vs-software-engineer-vs-developer.jpg);
+  
+}
+.background {
+  background-color:#f442b9;
+  opacity: 0.888;
+  background-attachment: fixed;
+}
+.background:hover {
+    opacity: 1.0;
+}
